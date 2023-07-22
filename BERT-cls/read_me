@@ -2,6 +2,9 @@ the codes are mainly about two parts:
   - BERT cls tasks: 
     we tried several types of BERT in our experiments, compared traditional BERT-base-uncase, Science version BERT (scibert_scivocab_uncased), electra and deberta. And we also tried the continue-training in the paper dataset, 
     but no evident improvement observed. We finally use the most common-used version, BERT-base-uncase.
+    
+    training code: ./run.py
+    infer code:   ./infer.py
 
   - prompt based data filter:
     to augment the ratio of positive data, we tried prompt engineering with the following three templates:
@@ -10,6 +13,7 @@ the codes are mainly about two parts:
     template2 = "The work is [MASK] related to natural disaster." 
     template3 = "Is the work mainly about natural disaster? Answer: [MASK]."   # or health
 
-    for a given paper, we input the model by "{title} {abstract} {template}" and observe the word distribution on [MASK].
+    for a given paper, we input the model by f"Title: {title}. Abstract: {abstract} [SEP] {template}" and observe the word distribution on [MASK].
     experiments show that the template1 helps to find some keys words about the paper, and template3 is quite useful to filter out more positive data in a unsupervised way.
 
+    code: unmask.py
