@@ -1,0 +1,198 @@
+==================================
+topic 15
+
+topic 0
+	[health 1.677] [mental 1.569] [disaster 1.288] [natural 0.396] [physical 0.389] [disorder 0.389] [community 0.346] [need 0.345] [service 0.343] [problem 0.334]
+
+topic 1
+	[storm 0.861] [disease 0.798] [dust 0.703] [day 0.607] [case 0.500] [visit 0.467] [respiratory 0.422] [increase 0.414] [mortality 0.347] [cyclone 0.340]
+
+topic 2
+	[heat 2.008] [mortality 1.305] [wave 1.278] [death 0.612] [temperature 0.492] [excess 0.388] [cold 0.336] [extreme 0.268] [cause 0.256] [day 0.245]
+
+topic 3
+	[patient 2.333] [earthquake 0.588] [hospital 0.557] [medical 0.379] [admit 0.297] [care 0.252] [disaster 0.246] [disease 0.244] [number 0.240] [treatment 0.231]
+
+topic 4
+	[child 2.771] [parent 0.630] [school 0.306] [mother 0.296] [family 0.269] [symptom 0.263] [disaster 0.227] [age 0.216] [pt 0.199] [year 0.191]
+
+topic 5
+	[flood 2.622] [dysentery 0.349] [flooding 0.330] [risk 0.259] [bacillary 0.258] [diarrhea 0.199] [effect 0.169] [study 0.156] [morbidity 0.146] [anxiety 0.146]
+
+topic 6
+	[hurricane 2.146] [sandy 0.968] [katrina 0.582] [exposure 0.477] [visit 0.291] [new 0.290] [storm 0.289] [related 0.196] [harvey 0.193] [evacuation 0.192]
+
+topic 7
+	[ptg 2.167] [growth 0.677] [posttraumatic 0.541] [rumination 0.462] [pt 0.364] [positive 0.275] [relationship 0.261] [traumatic 0.200] [ptgi 0.192] [deliberate 0.182]
+
+topic 8
+	[earthquake 1.053] [group 0.639] [japan 0.607] [fukushima 0.606] [area 0.568] [woman 0.535] [tsunami 0.525] [year 0.492] [evacuation 0.465] [incidence 0.411]
+
+topic 9
+	[ptsd 3.116] [disorder 0.508] [symptom 0.449] [prevalence 0.393] [earthquake 0.383] [survivor 0.350] [factor 0.282] [traumatic 0.261] [probable 0.228] [stress 0.217]
+
+topic 10
+	[support 1.857] [social 1.788] [survivor 0.360] [family 0.264] [resilience 0.255] [disaster 0.255] [perceive 0.250] [level 0.238] [capital 0.233] [life 0.196]
+
+topic 11
+	[symptom 1.536] [depression 1.307] [earthquake 0.812] [anxiety 0.784] [adolescent 0.769] [sleep 0.677] [depressive 0.671] [stress 0.500] [resilience 0.481] [exposure 0.381]
+
+topic 12
+	[distress 1.839] [psychological 1.648] [high 0.262] [participant 0.254] [year 0.243] [score 0.239] [disaster 0.221] [stress 0.195] [level 0.191] [associate 0.182]
+
+topic 13
+	[suicide 2.027] [rate 0.650] [suicidal 0.331] [ideation 0.303] [disaster 0.276] [mortality 0.231] [attempt 0.226] [increase 0.215] [covid 0.155] [pandemic 0.154]
+
+topic 14
+	[injury 2.059] [tornado 0.780] [death 0.419] [fracture 0.280] [related 0.268] [hospital 0.194] [chest 0.189] [cause 0.178] [fall 0.174] [type 0.172]
+
+
+==================================
+topics 20
+
+topic 0
+	[ptsd 3.203] [disorder 0.488] [symptom 0.476] [prevalence 0.349] [survivor 0.269] [factor 0.241] [traumatic 0.229] [probable 0.218] [stress 0.187] [dsm 0.175]
+
+topic 1
+	[health 1.700] [mental 1.587] [disaster 1.206] [natural 0.383] [physical 0.379] [disorder 0.376] [service 0.354] [need 0.350] [community 0.333] [problem 0.331]
+
+topic 2
+	[heat 2.234] [wave 1.452] [temperature 0.460] [mortality 0.285] [extreme 0.259] [cold 0.256] [day 0.221] [excess 0.182] [daily 0.176] [summer 0.172]
+
+topic 3
+	[patient 2.358] [hospital 0.548] [medical 0.366] [earthquake 0.344] [admit 0.287] [disaster 0.278] [care 0.253] [number 0.252] [period 0.239] [dialysis 0.239]
+
+topic 4
+	[child 2.813] [parent 0.637] [school 0.322] [family 0.274] [mother 0.256] [age 0.219] [behavior 0.185] [problem 0.185] [year 0.182] [adolescent 0.174]
+
+topic 5
+	[flood 2.637] [dysentery 0.356] [flooding 0.329] [bacillary 0.263] [risk 0.256] [diarrhea 0.199] [study 0.157] [morbidity 0.145] [effect 0.138] [area 0.136]
+
+topic 6
+	[hurricane 2.170] [sandy 1.017] [katrina 0.552] [exposure 0.330] [visit 0.329] [storm 0.323] [new 0.303] [harvey 0.197] [landfall 0.196] [maria 0.192]
+
+topic 7
+	[ptg 2.198] [growth 0.659] [posttraumatic 0.506] [rumination 0.477] [positive 0.266] [relationship 0.257] [ptgi 0.190] [deliberate 0.188] [intrusive 0.169] [inventory 0.163]
+
+topic 8
+	[earthquake 2.282] [group 0.596] [survivor 0.498] [score 0.434] [adolescent 0.403] [study 0.300] [year 0.295] [factor 0.293] [wenchuan 0.278] [subject 0.277]
+
+topic 9
+	[depression 2.288] [anxiety 1.180] [resilience 0.404] [adolescent 0.370] [symptom 0.308] [scale 0.297] [student 0.260] [depressive 0.173] [mental 0.159] [month 0.150]
+
+topic 10
+	[support 1.870] [social 1.800] [survivor 0.357] [family 0.263] [resilience 0.253] [perceive 0.246] [disaster 0.237] [capital 0.235] [level 0.224] [life 0.193]
+
+topic 11
+	[symptom 1.919] [pt 0.952] [trajectory 0.771] [depressive 0.763] [stress 0.547] [exposure 0.543] [disaster 0.456] [posttraumatic 0.426] [traumatic 0.370] [post 0.351]
+
+topic 12
+	[sleep 2.161] [disturbance 0.603] [problem 0.556] [quality 0.437] [insomnia 0.222] [lbp 0.163] [pain 0.147] [subjective 0.141] [duration 0.141] [psqi 0.126]
+
+topic 13
+	[mortality 2.027] [death 1.239] [cause 0.403] [excess 0.394] [rate 0.321] [population 0.238] [risk 0.218] [estimate 0.204] [cold 0.188] [age 0.184]
+
+topic 14
+	[injury 2.097] [tornado 0.785] [fracture 0.296] [related 0.259] [hospital 0.217] [chest 0.201] [fall 0.177] [type 0.175] [trauma 0.169] [injured 0.166]
+
+topic 15
+	[birth 1.213] [woman 1.075] [pregnancy 0.715] [pregnant 0.508] [maternal 0.463] [infant 0.417] [exposure 0.399] [outcome 0.389] [weight 0.356] [gestational 0.340]
+
+topic 16
+	[fukushima 0.853] [evacuation 0.758] [japan 0.655] [tsunami 0.613] [nuclear 0.589] [disaster 0.582] [evacuee 0.575] [area 0.472] [incidence 0.447] [east 0.436]
+
+topic 17
+	[suicide 2.046] [rate 0.596] [suicidal 0.339] [ideation 0.313] [disaster 0.230] [attempt 0.228] [increase 0.211] [covid 0.160] [pandemic 0.159] [suicidality 0.155]
+
+topic 18
+	[distress 1.866] [psychological 1.647] [high 0.260] [participant 0.259] [year 0.244] [score 0.224] [kessler 0.179] [level 0.177] [scale 0.176] [associate 0.169]
+
+topic 19
+	[disease 0.873] [storm 0.837] [dust 0.682] [day 0.594] [case 0.542] [visit 0.488] [respiratory 0.421] [increase 0.405] [infectious 0.348] [cyclone 0.339]
+
+
+==================================
+
+topic 25
+topic 0
+	[ptsd 3.219] [disorder 0.462] [prevalence 0.348] [survivor 0.268] [factor 0.265] [probable 0.221] [symptom 0.218] [traumatic 0.190] [dsm 0.179] [risk 0.177]
+
+topic 1
+	[health 1.708] [mental 1.606] [disaster 1.198] [physical 0.386] [disorder 0.380] [natural 0.377] [service 0.352] [need 0.344] [problem 0.333] [community 0.324]
+
+topic 2
+	[heat 2.250] [wave 1.468] [temperature 0.428] [extreme 0.253] [cold 0.204] [day 0.200] [excess 0.196] [mortality 0.175] [summer 0.169] [climate 0.159]
+
+topic 3
+	[patient 2.396] [hospital 0.536] [medical 0.374] [earthquake 0.290] [disaster 0.269] [admit 0.267] [care 0.258] [dialysis 0.247] [number 0.239] [treatment 0.219]
+
+topic 4
+	[child 2.821] [parent 0.624] [school 0.320] [family 0.266] [mother 0.259] [age 0.220] [behavior 0.183] [problem 0.180] [year 0.179] [parental 0.160]
+
+topic 5
+	[flood 2.649] [dysentery 0.359] [flooding 0.324] [bacillary 0.265] [risk 0.256] [diarrhea 0.192] [study 0.157] [morbidity 0.144] [effect 0.139] [area 0.136]
+
+topic 6
+	[hurricane 2.122] [sandy 1.113] [visit 0.382] [storm 0.370] [exposure 0.367] [new 0.276] [harvey 0.208] [landfall 0.204] [evacuation 0.203] [maria 0.200]
+
+topic 7
+	[ptg 2.203] [growth 0.655] [posttraumatic 0.515] [rumination 0.473] [positive 0.260] [relationship 0.255] [deliberate 0.188] [ptgi 0.188] [traumatic 0.179] [intrusive 0.170]
+
+topic 8
+	[earthquake 2.372] [group 0.597] [survivor 0.487] [score 0.407] [adolescent 0.308] [year 0.303] [subject 0.292] [study 0.290] [wenchuan 0.280] [month 0.273]
+
+topic 9
+	[depression 2.342] [anxiety 1.207] [adolescent 0.267] [scale 0.207] [mental 0.162] [disorder 0.153] [month 0.136] [comorbidity 0.135] [probable 0.133] [rating 0.127]
+
+topic 10
+	[support 1.886] [social 1.811] [survivor 0.358] [family 0.266] [perceive 0.242] [capital 0.238] [disaster 0.238] [level 0.213] [receive 0.184] [life 0.178]
+
+topic 11
+	[symptom 2.438] [depressive 0.943] [stress 0.569] [traumatic 0.431] [post 0.384] [posttraumatic 0.371] [exposure 0.348] [month 0.269] [disaster 0.248] [trauma 0.237]
+
+topic 12
+	[sleep 2.163] [disturbance 0.603] [problem 0.556] [quality 0.438] [insomnia 0.220] [lbp 0.163] [pain 0.145] [subjective 0.140] [duration 0.139] [psqi 0.127]
+
+topic 13
+	[death 2.091] [fatality 0.359] [cause 0.345] [excess 0.322] [number 0.298] [disaster 0.234] [occur 0.179] [landslide 0.169] [data 0.146] [estimate 0.142]
+
+topic 14
+	[injury 2.201] [fracture 0.334] [related 0.230] [hospital 0.228] [chest 0.224] [fall 0.195] [type 0.189] [injured 0.165] [trauma 0.163] [head 0.157]
+
+topic 15
+	[birth 1.211] [woman 1.077] [pregnancy 0.716] [pregnant 0.508] [maternal 0.464] [infant 0.417] [exposure 0.402] [outcome 0.391] [weight 0.357] [gestational 0.341]
+
+topic 16
+	[fukushima 0.904] [evacuation 0.822] [japan 0.640] [nuclear 0.631] [evacuee 0.612] [tsunami 0.595] [disaster 0.523] [area 0.427] [east 0.425] [resident 0.407]
+
+topic 17
+	[suicide 2.047] [rate 0.599] [suicidal 0.338] [ideation 0.312] [disaster 0.244] [attempt 0.228] [increase 0.211] [covid 0.159] [pandemic 0.158] [suicidality 0.154]
+
+topic 18
+	[distress 1.863] [psychological 1.642] [high 0.264] [participant 0.260] [year 0.259] [score 0.220] [level 0.184] [kessler 0.179] [associate 0.170] [scale 0.166]
+
+topic 19
+	[disease 1.007] [storm 0.729] [dust 0.593] [case 0.581] [day 0.534] [visit 0.442] [infectious 0.411] [respiratory 0.409] [increase 0.391] [cyclone 0.342]
+
+topic 20
+	[mortality 2.284] [cold 0.308] [rate 0.269] [risk 0.261] [cause 0.250] [temperature 0.235] [drought 0.231] [impact 0.226] [population 0.217] [excess 0.209]
+
+topic 21
+	[pt 1.531] [trajectory 1.409] [youth 0.312] [postdisaster 0.284] [exposure 0.277] [disaster 0.260] [group 0.250] [stable 0.246] [chronic 0.242] [predisaster 0.209]
+
+topic 22
+	[resilience 2.008] [student 0.455] [scale 0.368] [adolescent 0.302] [factor 0.281] [school 0.197] [self 0.179] [davidson 0.176] [cop 0.175] [connor 0.172]
+
+topic 23
+	[ami 1.359] [katrina 1.236] [group 0.495] [incidence 0.460] [year 0.314] [pre 0.282] [post 0.278] [hurricane 0.239] [infarction 0.234] [myocardial 0.227]
+
+topic 24
+	[tornado 1.998] [outbreak 0.188] [warning 0.181] [adolescent 0.167] [joplin 0.167] [fatality 0.150] [exposure 0.142] [substance 0.133] [shelter 0.109] [alabama 0.108]
+
+==================================
+
+
+25 0.19646283030509568
+[0.2099124482796131, 15]
+[0.2043515514684418, 20]
+[0.19646283030509568, 25]
